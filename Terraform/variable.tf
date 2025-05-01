@@ -3,7 +3,7 @@ variable "instance_name" {
 }
 
 variable "key_name" {
-  default = "rakeshrr_pt"                  # Names of key in aws
+  default = "elk-keypair"                  # Names of key in aws
 }
 
 
